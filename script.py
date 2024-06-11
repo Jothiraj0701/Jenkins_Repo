@@ -13,7 +13,7 @@ def generate_fruit_love_message(fruit):
     return f"I have a profound affection for {fruit}s."
 
 def main():
-    fruits = ["apple", "banana", "orange", "grape", "pineapple","mango"]
+    fruits = ["apple", "banana", "orange", "grape", "pineapple","mango","dragon Fruit"]
     for fruit in fruits:
         print(generate_fruit_love_message(fruit))
 
